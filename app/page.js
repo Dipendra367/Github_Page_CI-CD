@@ -42,7 +42,7 @@ export default function HomePage() {
         <section className="heroContent">
           <div className="heroText">
             <p className="tag">#1 electronics destination</p>
-            <h1>Upgrade your lifestyle with next-gen electronics</h1>
+            <h1>Change your lifestyle with next-gen PS5</h1>
             <p>
               Discover premium gadgets for work, gaming and home. Find top brands, exclusive offers and
               fast delivery at myshop.
@@ -111,7 +111,7 @@ export default function HomePage() {
 
       <footer id="contact" className="footer">
         <h2>myshop</h2>
-        <p>Email: support@myshop.com | Phone: +1 (800) 555-0199</p>
+        <p>Email: dipen@myshop.com | Phone: +1 (800) 555-0199</p>
         <small>© {new Date().getFullYear()} myshop. All rights reserved.</small>
       </footer>
     </main>
